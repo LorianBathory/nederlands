@@ -32,3 +32,9 @@ Bollie was de aller-aller-luiste poes van de hele wereld. Zij lag altijd op een 
 Op een dag lag Bollie op de lekkere stoel van haar nieuwe baasje bij de verwarming. Vader kwam binnen en wilde in zijn stoel gaan zitten. Maar daar lag Bollie.
 Hij probeerde Bollie weg te duwen, maar Bollie bleef liggen. Vader schudde aan de stoel, maar Bollie bleef nog steeds liggen. Wat vader ook deed, Bollie bleef liggen.
 Vader ging daarom maar in een andere stoel zitten. Vanaf die dag was vaders stoel van Bollie en Bollie lag er elke dag in te slapen, uren achter elkaar.
+
+## 5 januari — Jut en de eenden
+
+Jut was de stoerste kater van de hele buurt. Op een dag liepen er zes eenden op het gras. “Kijk, Jut! Eenden!” riep zijn baasje Carolientje. Met een heleboel andere poezen sloop Jut naar de eenden. Maar Jut liep voorop en kwam steeds dichterbij. Ineens liep een grote eend naar Jut toe. Jut zag dat een eend toch wel heel groot is en liep gauw een stukje achteruit. Oei, die eend had ook een gemeen grote snavel, en wat een felle priemoogjes had dat beest! Nee, die eend zag er helemaal niet aardig uit. En hij was ook helemaal niet bang voor Jut.
+Nog een stukje verder achteruit ging Jut. De eenden sprongen snel de sloot in. Carolientje pakte Jut op en zei: “Jij bent de dapperste, Jut, want jij durfde het dichtste bij!”
+Maar Jut bedacht stiekem dat hij, net als de andere poezen, toch heus wel bang voor die grote eenden was geweest!
