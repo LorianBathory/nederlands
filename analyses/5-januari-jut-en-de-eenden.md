@@ -161,9 +161,11 @@ Maar Jut bedacht stiekem dat hij, net als de andere poezen, toch heus wel bang v
 
 После сочинительного **want** — «потому что, ведь» — сохраняется порядок главного предложения: **want jij durfde ...**. После подчинительного **dat** глагольная группа уходит в конец: **dat hij ... bang ... was geweest**.
 
-### `was geweest` — предпрошедшее время
+### `geweest` и `was geweest`
 
-Форма **was geweest** — `plusquamperfectum` глагола **zijn**. Она показывает, что страх Юта уже имел место к тому моменту, когда он позднее об этом подумал: **Jut bedacht ... dat hij ... bang ... was geweest**.
+**geweest** — причастие прошедшего времени (`voltooid deelwoord`) от глагола **zijn**: **zijn — was/waren — is geweest** — «быть — был/были — был, побывал». Само **geweest** не употребляется как самостоятельный сказуемый: ему нужен вспомогательный глагол, например **is geweest** — «был» в `perfectum` или **was geweest** — «был раньше, уже был» в `plusquamperfectum`.
+
+В истории форма **was geweest** показывает, что страх Юта уже имел место к тому моменту, когда он позднее об этом подумал: **Jut bedacht ... dat hij ... bang ... was geweest** — «Ют подумал, что он всё же действительно боялся / испугался». Здесь **bang geweest zijn** буквально значит «быть побывавшим в состоянии страха», естественно по-русски — «бояться, испугаться».
 
 ## Обязательно знать на A1+
 
@@ -172,5 +174,6 @@ Maar Jut bedacht stiekem dat hij, net als de andere poezen, toch heus wel bang v
 - **eruitzien + прилагательное** — выглядеть каким-либо образом.
 - **naar ... toe** — по направлению к кому-либо или чему-либо.
 - **want** сохраняет порядок главного предложения, а после **dat** глагол ставится в конец.
+- **geweest** — причастие от **zijn**; **is geweest** — «был», **was geweest** — «уже был / был раньше».
 - **nog** — ещё; **nog een stukje** — ещё немного.
 - **net als** — так же как; **helemaal niet** — совсем не.
