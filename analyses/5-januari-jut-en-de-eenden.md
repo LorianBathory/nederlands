@@ -104,6 +104,7 @@ Maar Jut bedacht stiekem dat hij, net als de andere poezen, toch heus wel bang v
 - **fel / felle** — свирепый, яростный; словарная форма **fel**.
 - **helemaal niet** — совсем не, совершенно не.
 - **aardig** — приятный, милый, дружелюбный; здесь с отрицанием: **niet aardig**.
+- **nog** — ещё. В этой истории показывает добавление или продолжение уже начатого движения: **Nog een stukje verder achteruit ging Jut** — «Ют отступил назад ещё немного дальше». В сочетании **nog een** часто значит «ещё один / ещё немного»: **nog een stukje** — «ещё кусочек, ещё немного».
 - **verder** — дальше; в **nog een stukje verder achteruit** — «назад ещё немного дальше».
 - **snel** — быстро.
 - **dapper / dapperste** — храбрый; **dapperste** — превосходная степень «самый храбрый».
@@ -171,4 +172,5 @@ Maar Jut bedacht stiekem dat hij, net als de andere poezen, toch heus wel bang v
 - **eruitzien + прилагательное** — выглядеть каким-либо образом.
 - **naar ... toe** — по направлению к кому-либо или чему-либо.
 - **want** сохраняет порядок главного предложения, а после **dat** глагол ставится в конец.
+- **nog** — ещё; **nog een stukje** — ещё немного.
 - **net als** — так же как; **helemaal niet** — совсем не.
