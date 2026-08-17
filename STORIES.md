@@ -32,3 +32,24 @@ Bollie was de aller-aller-luiste poes van de hele wereld. Zij lag altijd op een 
 Op een dag lag Bollie op de lekkere stoel van haar nieuwe baasje bij de verwarming. Vader kwam binnen en wilde in zijn stoel gaan zitten. Maar daar lag Bollie.
 Hij probeerde Bollie weg te duwen, maar Bollie bleef liggen. Vader schudde aan de stoel, maar Bollie bleef nog steeds liggen. Wat vader ook deed, Bollie bleef liggen.
 Vader ging daarom maar in een andere stoel zitten. Vanaf die dag was vaders stoel van Bollie en Bollie lag er elke dag in te slapen, uren achter elkaar.
+
+## 5 januari — Jut en de eenden
+
+Jut was de stoerste kater van de hele buurt. Op een dag liepen er zes eenden op het gras. “Kijk, Jut! Eenden!” riep zijn baasje Carolientje. Met een heleboel andere poezen sloop Jut naar de eenden. Maar Jut liep voorop en kwam steeds dichterbij. Ineens liep een grote eend naar Jut toe. Jut zag dat een eend toch wel heel groot is en liep gauw een stukje achteruit. Oei, die eend had ook een gemeen grote snavel, en wat een felle priemoogjes had dat beest! Nee, die eend zag er helemaal niet aardig uit. En hij was ook helemaal niet bang voor Jut.
+Nog een stukje verder achteruit ging Jut. De eenden sprongen snel de sloot in. Carolientje pakte Jut op en zei: “Jij bent de dapperste, Jut, want jij durfde het dichtste bij!”
+Maar Jut bedacht stiekem dat hij, net als de andere poezen, toch heus wel bang voor die grote eenden was geweest!
+
+## 6 januari — Zwemmen
+
+Jikke was een heel erg stoute poes. Altijd als zij speelde, gooide ze iets om, of deed ze iets anders wat niet mocht. Ook Jikke zag de zes eenden in de sloot en wilde er graag eentje vangen. Zij sloop dichter- en dichterbij. Ze wilde zo graag een eend vangen, dat ze het water niet meer zag. Ze sprong... Splats! met een grote plons viel Jikke in het water. Snel klom ze op de kant en rende naar huis. “Maar Jikke,” zei moeder, “poezen houden toch niet van zwemmen?” Ja, dat wist Jikke ook wel! Bedroefd keek ze naar moeder. Nou was ze in het water gevallen en nu werd ze nog geplaagd ook! Nee, de volgende keer zou Jikke wel beter uitkijken en de eenden liet zij voortaan maar met rust.
+
+## 7 januari — Mooie Minet
+
+Ik ben de mooiste poes Minet.
+Op mijn vachtje zit geen spet,
+want ik lik mij urenlang
+en vraag de spiegel in de gang:
+“Ben ik de mooiste nu nog wel?”
+De spiegel antwoordt: “Tuttebel!”
+Ik ben knap en mooi en net
+en daarom heet ik poes Minet.
