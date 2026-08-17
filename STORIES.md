@@ -42,3 +42,14 @@ Maar Jut bedacht stiekem dat hij, net als de andere poezen, toch heus wel bang v
 ## 6 januari — Zwemmen
 
 Jikke was een heel erg stoute poes. Altijd als zij speelde, gooide ze iets om, of deed ze iets anders wat niet mocht. Ook Jikke zag de zes eenden in de sloot en wilde er graag eentje vangen. Zij sloop dichter- en dichterbij. Ze wilde zo graag een eend vangen, dat ze het water niet meer zag. Ze sprong... Splats! met een grote plons viel Jikke in het water. Snel klom ze op de kant en rende naar huis. “Maar Jikke,” zei moeder, “poezen houden toch niet van zwemmen?” Ja, dat wist Jikke ook wel! Bedroefd keek ze naar moeder. Nou was ze in het water gevallen en nu werd ze nog geplaagd ook! Nee, de volgende keer zou Jikke wel beter uitkijken en de eenden liet zij voortaan maar met rust.
+
+## 7 januari — Mooie Minet
+
+Ik ben de mooiste poes Minet.
+Op mijn vachtje zit geen spet,
+want ik lik mij urenlang
+en vraag de spiegel in de gang:
+“Ben ik de mooiste nu nog wel?”
+De spiegel antwoordt: “Tuttebel!”
+Ik ben knap en mooi en net
+en daarom heet ik poes Minet.
