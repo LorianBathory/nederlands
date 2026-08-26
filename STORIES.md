@@ -53,3 +53,83 @@ en vraag de spiegel in de gang:
 De spiegel antwoordt: “Tuttebel!”
 Ik ben knap en mooi en net
 en daarom heet ik poes Minet.
+
+## 8 januari — Lisa maakt Minet mooi
+
+Op een dag was Lisa in de kamer van haar mama.
+Daar zag zij lippenstift liggen. Dat is leuk, dacht Lisa, ik maak mij mooi,
+net als mama. Zij smeerde de lippenstift dik op haar lippen. “Kom eens hier
+Minet,” zei Lisa, “dan maak ik jou ook mooi.” Lisa smeerde ook de lippen
+van Minet vol lippenstift. Trots liep Minet naar de spiegel.
+Ze vond zichzelf prachtig. Maar de moeder van Lisa moest
+heel hard lachen toen ze Minet zag.
+Want een poes met lippenstift, dat is echt een gek gezicht.
+
+## 9 januari — Jut is bang
+
+Bij Jut werd in de gang een nieuwe spiegel opgehangen,
+een heel grote. Carolientje stond voor de spiegel en riep:
+“Kom Jut! Dan gaan we in de spiegel kijken.” Jut kwam
+vlug aangehold. Maar wat zag hij daar? Daar stond een heel grote
+kater in de gang. En die kater kreeg een hoge rug, en een heel
+dikke staart! En wat had hij gevaarlijke ogen!
+Oei, die kater zag er wel heel gevaarlijk uit, dat was vast geen
+vriendje voor zo’n aardig beest als Jut.
+Jut werd echt een beetje bang. “Domme Jut!” riep Carolientje.
+“Het is maar een spiegel! Je ziet jezelf!” Maar het duurde toch wel
+een poosje voordat Jut voorbij die kat in de gang durfde te lopen.
+Hij liep er liever met een boogje omheen en keek met opzet
+de andere kant op.
+
+## 10 januari — Dirk houdt van kippen
+
+De kater Dirk woonde op een boerderij.
+De boerin deed de deur open en Dirk
+ging voor het eerst naar buiten. Wat zag
+hij daar? Dat had hij nog nooit gezien.
+Daar liep een grote witte vogel.
+Rond de grote vogel liepen een heleboel
+kleine gele vogeltjes.
+Al die vogels pikten op de grond.
+“Wie ben jij?” vroeg Dirk.
+“Ik ben een kip”, zei de kip. “En dat zijn
+mijn kuikentjes. Maar die mag je niet
+opeten.” “Ik lust geen vogels”, zei Dirk.
+“Ik eet liever blikvoer.” Zo’n rare poes
+had de kip nog nooit meegemaakt.
+Maar Dirk en de kippen
+werden wel vriendjes.
+
+## 11 januari — Bollie is weer lui
+
+De luie poes Bollie lag de hele dag te slapen of
+keek wat er gebeurde. Ze stond alleen op om te
+gaan eten of drinken. Verder deed ze niets.
+Op een dag liep er een muis rond.
+“Een muis! Bollie! Een muis!”
+riep Joep, haar baasje.
+Ja, nou en? dacht Bollie en ging
+nog lekkerder liggen. “Doe eens wat!
+Vang die muis!” riep Joep en gaf Bollie
+een duw. Goed dan, dacht Bollie.
+Ze rekte zich eens lekker uit en stond rustig op.
+Denk jij dat de muis er toen nog was?
+
+## 12 januari — Juultje heeft een vriendje
+
+Juultje was een heel lieve poes. Het liefst wilde zij
+verpleegster worden, maar dat kan een poes nu
+eenmaal niet. Op een dag vond Juultje in de tuin
+een mus met een gebroken vleugeltje.
+Het vogeltje lag heel zielig te piepen,
+want dat vleugeltje deed pijn.
+Voorzichtig pakte Juultje de mus in haar bekje en
+bracht haar naar binnen, naar haar baasje Frank.
+Samen met Frank verzorgde zij de mus tot die
+helemaal beter was. Vanaf die dag waren de mus
+en Juultje dikke vrienden. En weet je wat de mus
+deed als ze op bezoek kwam? Dan ging ze altijd
+op Juultjes kopje zitten! Zo liepen ze rustig met
+z’n tweetjes door de tuin.
+Alle mensen die dat zagen, moesten erom lachen.
+Zoiets geks hadden ze nog nooit gezien.
