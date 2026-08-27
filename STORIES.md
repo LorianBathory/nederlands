@@ -133,3 +133,78 @@ op Juultjes kopje zitten! Zo liepen ze rustig met
 z’n tweetjes door de tuin.
 Alle mensen die dat zagen, moesten erom lachen.
 Zoiets geks hadden ze nog nooit gezien.
+
+## 13 januari — Piet-Hein verjaagt de muizen
+
+Piet-Hein werd scheepskat op een rijnaak.
+In die boot werd vaak graan meegenomen.
+Muizen vinden graan erg lekker, en op de boot
+woonden dus, stiekem, ook een heleboel muizen.
+Piet-Hein moest de muizen vangen, zodat ze het
+graan niet opaten. Piet-Hein was een heel lieve
+kater en hij vond het helemaal niet leuk om
+muizen te vangen. Daarom had hij een speciaal
+lied gemaakt. Als hij dat lied zong, schrokken de
+muizen zo, dat ze allemaal van de boot renden.
+Dan hoefde Piet-Hein ze niet te vangen.
+
+## 14 januari — Het lied van Piet-Hein
+
+Piet-Hein, Piet-Hein,
+Piet-Hein die schommelt fijn.
+Piet-Hein woont op een boot
+Piet-Hein die is heel rood.
+Hij heeft gevangen,
+een muis heel groot.
+Hij heeft gevangen, gevangen
+een muis heel groot!
+Hij heeft gevangen, gevangen
+een muis heel groot.
+
+## 15 januari — Veronica in de muizenval
+
+Domme poes Veronica hield niet van muizen vangen. Nou ja, ze wist gewoon niet of
+ze dat leuk vond. Ze was er eigenlijk te dom voor. Omdat Veronica geen
+muizen ving, zette haar baasje Mark een muizenval neer. Om de muizen te lokken,
+legde hij op de val een lekker stukje kaas. Veronica rook de kaas en dacht:
+ha lekker, kaas! Ze nam een hapje en... Klap!
+De muizenval klapte dicht en bungelde aan haar snorharen.
+Wat keek Mark gek toen Veronica de kamer in liep.
+Hij had geen muis gevangen. Nee, hij had Veronica gevangen!
+Alle muizen zaten in een hoekje van de kamer bij elkaar. Zij hadden gezien hoe die
+domme Veronica de muizenval aan haar snorharen kreeg.
+Nu zaten ze vreselijk te lachen, de tranen liepen ervan over hun wangen.
+Ze waren blij dat zij niet zo dom als Veronica waren!
+
+## 16 januari — Tommy bij neef Luipaard
+
+Tommy schreef graag brieven naar zijn kattenfamilie en ging ook vaak bij
+ze op bezoek. Op een dag ging hij naar de dierentuin voor een bezoek
+aan neef luipaard. Eerst wandelde hij eens op zijn gemak door de
+dierentuin. Wat bestonden er toch vreemde dieren!
+Die papegaai daar bijvoorbeeld, wat zag die er gek uit. Geen gezicht, al die
+rare kleuren. En dan die olifanten, dat was toch ook geen gezicht?
+Nee, katten waren beslist de mooiste dieren die er bestonden, dat wist
+Tommy heel zeker. Kijk, daar lag neef luipaard. “Dag neef luipaard”,
+zei Tommy. “Waarom heet jij luipaard? Ben jij lui?”
+“Grrr!” zei de luipaard. “Ik ben niet lui. Grrr!” Tommy schrok heel erg.
+Hij begreep wel dat luipaard hem geen kopje thee zou aanbieden.
+Wat was hij blij dat luipaard in een kooi met dikke tralies zat!
+Neef luipaard was beslist geen aardig dier!
+
+## 17 januari — Een luipaard is lui
+
+Op het moment dat Tommy bij neef luipaard wegliep, zag hij
+in de verte een poes met een rugzak op de rug. Dat is Fleurtje,
+dacht Tommy, en heel hard riep hij: “Fleurtje!” Hij liep naar haar
+toe en vertelde van zijn bezoek aan neef luipaard. Samen gingen ze
+nog even bij de kooi kijken. “Raar hoor,” zei Fleurtje,
+“dat neef luipaard niet lui genoemd wil worden. Hij ligt de hele tijd
+te luieren in zijn hok. Hij slaapt de hele dag, en als hij opstaat, doet
+hij dat heel langzaam. Kijk, nou rekt hij zich al weer uit,
+en nu gaat hij weer liggen.”
+“Jij bent niet lui, hè, Fleurtje?” vroeg Tommy.
+“Waar ga je nu naartoe met je rugzak?”
+“Ik ga de wijde wereld in”, zei Fleurtje.
+“Ik ga in andere landen kijken. En als ik terugkom,
+zal ik je er alles over vertellen.”
