@@ -20,22 +20,33 @@ Dan hoefde Piet-Hein ze niet te vangen.
 
 ## Повторение: встречалось раньше, но еще не изучено
 
-- **worden — werd — is geworden** — становиться; здесь **werd scheepskat** — «стал корабельным котом».
-- **vinden + прилагательное** — считать что-либо каким-либо: **hij vond het ... niet leuk**.
-- **moeten + infinitief** — быть должным: **moest ... vangen**.
-- **vangen — ving — heeft gevangen** — ловить; встречалось в историях об утках и Болли.
-- **maken — maakte — heeft gemaakt** — делать, создавать; здесь «сочинил» песню.
+- **worden — werd, werden — is geworden** — становиться; здесь **werd scheepskat** — «стал корабельным котом».
+- **wonen — woonde, woonden — heeft gewoond** — жить, обитать; **op de boot woonden ... muizen** — «на судне жили мыши».
+- **vinden — vond, vonden — heeft gevonden** — находить; в конструкции **iets + прилагательное vinden** — считать что-либо каким-либо: **hij vond het helemaal niet leuk** — «ему это совсем не нравилось».
+- **moeten + infinitief — moest, moesten — heeft gemoeten** — быть должным, быть вынужденным что-либо сделать: **Piet-Hein moest de muizen vangen**.
+- **vangen — ving, vingen — heeft gevangen** — ловить; встречалось в историях об утках и Болли.
+- **maken — maakte, maakten — heeft gemaakt** — делать, создавать; **een lied maken** здесь означает «сочинить песню».
 - **een heleboel** — очень много, целая уйма.
 - **helemaal niet** — совсем не.
 - **daarom** — поэтому.
+- **heel lief** — очень добрый, милый; сочетание встречалось в истории 12 января.
+- **zo ... dat ...** — так / настолько …, что …; конструкция результата встречалась 6 января.
+- **ook** — тоже, также; здесь подчёркивает, что на судне, помимо подразумеваемых людей, жили ещё и мыши.
+- **dan** — тогда; называет результат или следующее действие в описываемой ситуации.
 
 ## Новые глаголы
+
+### verjagen — прогонять, изгонять
+
+- **Imperfectum:** verjoeg, verjoegen
+- **Perfectum:** heeft verjaagd
+- **Управление / частица:** неотделяемая приставка **ver-**; прямое дополнение **iemand/iets verjagen**. Глагол употреблён в заголовке: **Piet-Hein verjaagt de muizen** — «Пит-Хейн прогоняет мышей».
 
 ### meenemen — брать с собой; перевозить
 
 - **Imperfectum:** nam mee, namen mee
 - **Perfectum:** heeft meegenomen
-- **Управление / частица:** отделяемая частица **mee-**; прямое дополнение: **graan meenemen**.
+- **Управление / частица:** отделяемая частица **mee-**; прямое дополнение: **graan meenemen**. В истории глагол стоит в пассиве: **werd ... meegenomen** — «перевозилось».
 
 ### opeten — съедать целиком
 
@@ -53,7 +64,7 @@ Dan hoefde Piet-Hein ze niet te vangen.
 
 - **Imperfectum:** schrok, schrokken
 - **Perfectum:** is geschrokken
-- **Управление / частица:** обычно **schrikken van iets** — испугаться чего-либо.
+- **Управление / частица:** **schrikken van iets/iemand** — пугаться чего-либо/кого-либо; причина может быть не названа, как в тексте.
 
 ### rennen — бежать
 
@@ -65,11 +76,14 @@ Dan hoefde Piet-Hein ze niet te vangen.
 
 - **Imperfectum:** hoefde, hoefden
 - **Perfectum:** heeft gehoeven
-- **Управление / частица:** обычно **niet hoeven te + infinitief** — не нужно, не приходится что-либо делать.
+- **Tegenwoordige tijd:** ik **hoef**, jij/hij **hoeft**, wij/jullie/zij **hoeven**
+- **Управление / частица:** обычно **niet hoeven te + infinitief** — не нужно, не приходится что-либо делать. В утвердительных предложениях **hoeven** употребляется главным образом с ограничителями вроде **maar** или **alleen**.
 
 ## Устойчивые выражения и идиомы
 
 - **een heleboel** — целая уйма, очень много.
+- **een lied maken** — сочинить песню; дословно «сделать песню».
+- **een lied zingen** — петь песню.
 
 ## Частицы, наречия и прилагательные
 
@@ -77,10 +91,10 @@ Dan hoefde Piet-Hein ze niet te vangen.
 - **erg** — очень, сильно.
 - **dus** — следовательно, поэтому; обозначает вывод.
 - **stiekem** — тайком, незаметно.
-- **lief / lieve** — добрый, милый.
 - **speciaal / speciale** — особый, специальный.
-- **zo ... dat ...** — так / настолько …, что … .
 - **allemaal** — все, все вместе.
+- **heel** — очень; усиливает прилагательное в **een heel lieve kater**. Не путать с **heel / hele** «весь, целый».
+- **niet** — не; в **het graan niet opaten** отрицает действие, а в **helemaal niet leuk** усилено словом **helemaal**.
 
 ## Существительные
 
@@ -90,13 +104,23 @@ Dan hoefde Piet-Hein ze niet te vangen.
 - **het graan — de granen** — зерно; множественное число обычно обозначает сорта зерна.
 - **de muis — de muizen** — мышь.
 - **de kater — de katers** — кот-самец.
-- **het lied — de liederen / liedjes** — песня; **liederen** — нейтральное книжное множественное, **liedjes** — обычное «песенки».
+- **het lied — de liederen** — песня. **Het liedje — de liedjes** — уменьшительная форма «песенка» от **het lied — de liederen**.
 
 ## Грамматика
 
 ### Страдательный залог `werd + participium`
 
 В **In die boot werd vaak graan meegenomen** важен груз, а не тот, кто его перевозил. **Werd meegenomen** — imperfectum пассива: «перевозилось».
+
+В первом предложении **werd scheepskat** — не пассив: после **werd** стоит существительное, а не причастие. Это самостоятельный глагол **worden** «становиться»: «стал корабельным котом».
+
+### Существительное, обозначающее роль, без артикля
+
+После **worden** название роли может употребляться без артикля: **Piet-Hein werd scheepskat** — «Пит-Хейн стал корабельным котом». Сравните обычную именную группу с артиклем: **Piet-Hein was een heel lieve kater**.
+
+### Plusquamperfectum: `had gemaakt`
+
+**Daarom had hij een speciaal lied gemaakt** — предпрошедшее время: к моменту описываемых событий Пит-Хейн уже сочинил песню. Оно строится из **had/hadden + participium**; здесь **had + gemaakt**.
 
 ### Целевое придаточное с `zodat`
 
@@ -114,6 +138,14 @@ Dan hoefde Piet-Hein ze niet te vangen.
 
 **De muizen schrokken zo, dat ze ... renden** связывает степень и результат: «мыши так пугались, что убегали».
 
+### Направление `van ... rennen`
+
+В **van de boot rennen** предлог **van** обозначает движение с поверхности или прочь от места: «сбежать / убежать с судна». Это обстоятельство направления, а не обязательное управление глагола **rennen**.
+
+### Местоимения `het` и `ze`
+
+В **hij vond het ... niet leuk om muizen te vangen** безударное **het** заранее представляет последующий инфинитивный оборот **om muizen te vangen**: буквально «он считал это неприятным — ловить мышей». В **zodat ze het graan niet opaten** и **dat ze allemaal ... renden** слово **ze** заменяет множественное **de muizen**.
+
 ### `niet hoeven te`
 
 В **Dan hoefde Piet-Hein ze niet te vangen** отрицание относится к необходимости: ловить их не требовалось.
@@ -121,6 +153,7 @@ Dan hoefde Piet-Hein ze niet te vangen.
 ## Обязательно знать на A1+
 
 - **vaak** — часто; **dus** — поэтому, следовательно.
+- **vinden + object + прилагательное** — считать что-либо каким-либо: **het niet leuk vinden** — считать это неприятным / не любить это.
 - **zodat + глагол в конце** — чтобы; вводит цель или результат.
 - **niet hoeven te + infinitief** — не нужно / не приходится что-либо делать.
 - **meenemen — nam mee — heeft meegenomen** — брать с собой, перевозить.
