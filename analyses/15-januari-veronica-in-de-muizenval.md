@@ -27,10 +27,20 @@ Ze waren blij dat zij niet zo dom als Veronica waren!
 - **denken — dacht — heeft gedacht** — думать.
 - **nemen — nam — heeft genomen** — брать.
 - **kijken — keek — heeft gekeken** — смотреть.
+- **vangen — ving, vingen — heeft gevangen** — ловить; в тексте есть и imperfectum **ving**, и plusquamperfectum **had gevangen**.
+- **zien — zag, zagen — heeft gezien** — видеть; **zij hadden gezien** — «они видели».
+- **lopen — liep, liepen — heeft/is gelopen** — идти, ходить; здесь **de kamer in lopen** — «войти в комнату».
 - **zitten te + infinitief** — находиться в положении сидя и делать что-либо: **zaten ... te lachen**.
 - **bij elkaar** — вместе, рядом друг с другом.
 - **de kamer — de kamers** — комната.
+- **de muis — de muizen** — мышь.
 - **lachen — lachte — heeft gelachen** — смеяться.
+- **geen** — никакой, ни один; отрицает неопределённую именную группу: **geen muizen**, **geen muis**.
+- **nu** — теперь, сейчас; переключает рассказ на то, что происходило с мышами после ловушки.
+- **toen** — когда; вводит однократное событие в прошлом: **toen Veronica de kamer in liep**.
+- **leuk** — приятный, весёлый; в **dat leuk vinden** — «считать это приятным / любить это».
+- **gek** — странный; раньше встречалось **zoiets geks**, а здесь **gek kijken** означает «смотреть с удивлением».
+- **alle** — все; употребляется перед существительным во множественном числе: **alle muizen**.
 
 ## Новые глаголы
 
@@ -45,6 +55,12 @@ Ze waren blij dat zij niet zo dom als Veronica waren!
 - **Imperfectum:** lokte, lokten
 - **Perfectum:** heeft gelokt
 - **Управление / частица:** прямое дополнение: **de muizen lokken**.
+
+### leggen — класть, положить
+
+- **Imperfectum:** legde, legden
+- **Perfectum:** heeft gelegd
+- **Управление / частица:** **iets op/in ... leggen** — положить что-либо на / во что-либо; в тексте **een stukje kaas op de val leggen**.
 
 ### ruiken — пахнуть; чувствовать запах
 
@@ -64,12 +80,6 @@ Ze waren blij dat zij niet zo dom als Veronica waren!
 - **Perfectum:** heeft gebungeld
 - **Управление / частица:** **aan iets bungelen** — висеть, болтаться на чём-либо.
 
-### binnenlopen — входить пешком
-
-- **Imperfectum:** liep binnen, liepen binnen
-- **Perfectum:** is binnengelopen
-- **Управление / частица:** отделяемая часть **binnen-**; в тексте направление выражено раздельно: **de kamer in lopen**.
-
 ### krijgen — получать; оказаться с чем-либо
 
 - **Imperfectum:** kreeg, kregen
@@ -81,7 +91,6 @@ Ze waren blij dat zij niet zo dom als Veronica waren!
 - **nou ja** — ну да; ну, то есть; поправка или оговорка говорящего.
 - **te ... voor** — слишком … для чего-либо: **te dom voor**.
 - **een hapje nemen** — откусить / съесть кусочек.
-- **bij elkaar** — вместе, рядом друг с другом.
 - **de tranen lopen iemand over de wangen** — слёзы текут у кого-либо по щекам.
 
 ## Частицы, наречия и прилагательные
@@ -89,8 +98,9 @@ Ze waren blij dat zij niet zo dom als Veronica waren!
 - **gewoon** — просто, попросту.
 - **eigenlijk** — вообще-то, на самом деле.
 - **dom / domme** — глупый.
+- **ha** — «ага!», «о!»; междометие радостного узнавания или предвкушения.
+- **klap** — «хлоп!»; звукоподражание сработавшей ловушки.
 - **dicht** — закрыто; в **klapte dicht** указывает результат.
-- **gek** — странно, изумлённо; **gek kijken** — смотреть с удивлением.
 - **vreselijk** — ужасно, очень сильно; здесь усиливает **lachen**.
 - **blij** — радостный, довольный.
 - **zo ... als ...** — настолько / такой же …, как … .
@@ -133,14 +143,30 @@ Ze waren blij dat zij niet zo dom als Veronica waren!
 
 **Wat keek Mark gek!** — не вопрос «что?», а усилительное «как же удивлённо Марк смотрел!».
 
+### Направление `de kamer in`
+
+В **Veronica liep de kamer in** группа **de kamer in** означает движение внутрь: «Вероника вошла в комнату». Это не отделяемый глагол **binnenlopen**: **in** стоит после обозначения места и задаёт направление.
+
+### Придаточное с `hoe`
+
+**Zij hadden gezien hoe ... Veronica de muizenval aan haar snorharen kreeg** — «Они видели, как Вероника зацепила мышеловку усами». В придаточном с **hoe** личная форма **kreeg** стоит в конце.
+
+### Указательное `die` и ударное `zij`
+
+В **die domme Veronica** слово **die** не заменяет имя, а стоит перед ним и выражает отстранённое, здесь насмешливое «эта глупая Вероника». Полное **zij** в **dat zij niet zo dom ... waren** выделяет мышей: именно *они*, в отличие от Вероники, не такие глупые.
+
 ### `er` с предлогом
 
 **Ervan** заменяет **van het lachen / daarvan**: **de tranen liepen ervan** — «от этого у них текли слёзы».
+
+### `blij dat ...` и сравнение `zo ... als ...`
+
+**Ze waren blij dat ...** — «Они были рады, что…»; после **dat** форма **waren** уходит в конец. Рамка **niet zo dom als Veronica** означает «не такие глупые, как Вероника».
 
 ## Обязательно знать на A1+
 
 - **omdat + глагол в конце** — потому что.
 - **om ... te + infinitief** — чтобы что-либо сделать.
 - **of** в косвенном вопросе — «ли».
-- **neerzetten — zette neer — heeft neergezet** — ставить.
+- **leggen — legde — heeft gelegd** — класть; **neerzetten — zette neer — heeft neergezet** — ставить.
 - **blij dat ...** — рад, что … .
