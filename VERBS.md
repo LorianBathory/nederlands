@@ -1,6 +1,6 @@
 # Глаголы и глагольные выражения
 
-Этот справочник объединяет глагольный материал из всех разборов историй за 4–12 января. В него вошли как новые глаголы, так и глаголы из разделов повторения и глагольные конструкции, отдельно объяснённые в разборах.
+Этот справочник объединяет глагольный материал из всех существующих разборов историй за 4–17 января. В него вошли как новые глаголы, так и глаголы из разделов повторения и глагольные конструкции, отдельно объяснённые в разборах. Для каждого глагола перечислены формы настоящего времени, `imperfectum` и `perfectum`.
 
 ## Как пользоваться справочником
 
@@ -17,14 +17,20 @@
 |---|---|---|---|---|---|---|
 |  | **achternazitten** | преследовать, гоняться за | zit achterna; zit achterna; zit achterna; zit achterna; zitten achterna | zat achterna; zaten achterna | heeft achternagezeten | Отделяемое **achterna**; **iemand achternazitten**. |
 |  | **aanhollen** | прибежать бегом | hol aan; holt aan; holt aan; holt aan; hollen aan | holde aan; holden aan | is aangehold | Отделяемое **aan-**. |
+| ⭐ | **aanbieden** | предлагать | bied aan; biedt aan; biedt aan; biedt aan; bieden aan | bood aan; boden aan | heeft aangeboden | Отделяемое **aan-**; **iemand iets aanbieden**. |
 | ⭐ | **antwoorden** | отвечать | antwoord; antwoordt; antwoordt; antwoordt; antwoorden | antwoordde; antwoordden | heeft geantwoord | **op een vraag antwoorden**, также **iemand antwoorden**. |
 |  | **bedenken** | придумывать, обдумывать | bedenk; bedenkt; bedenkt; bedenkt; bedenken | bedacht; bedachten | heeft bedacht | Неотделяемое **be-**; **iets bedenken**, возможно придаточное с **dat**. |
+| ⭐ | **begrijpen** | понимать | begrijp; begrijpt; begrijpt; begrijpt; begrijpen | begreep; begrepen | heeft begrepen | Неотделяемое **be-**; прямое дополнение или придаточное с **dat**. |
+|  | **bestaan** | существовать | besta; bestaat; bestaat; bestaat; bestaan | bestond; bestonden | heeft bestaan | Без обязательного управления; **bestaan uit** — состоять из. |
 | ⭐ | **binnenkomen** | входить, заходить | kom binnen; komt binnen; komt binnen; komt binnen; komen binnen | kwam binnen; kwamen binnen | is binnengekomen | Отделяемое **binnen-**. |
 | ⭐ | **blijven** | оставаться, продолжать | blijf; blijft; blijft; blijft; blijven | bleef; bleven | is gebleven | **blijven + infinitief** без **te**: продолжать что-либо делать. |
 | ⭐ | **brengen** | приносить, отводить | breng; brengt; brengt; brengt; brengen | bracht; brachten | heeft gebracht | **iemand/iets naar + место brengen**. |
+| ⭐ | **breken** | ломать(ся) | breek; breekt; breekt; breekt; breken | brak; braken | heeft/is gebroken | **hebben** при переходном значении, **zijn** при изменении состояния. |
+|  | **bungelen** | болтаться, висеть | bungel; bungelt; bungelt; bungelt; bungelen | bungelde; bungelden | heeft gebungeld | **aan iets bungelen**. |
 | ⭐ | **denken** | думать | denk; denkt; denkt; denkt; denken | dacht; dachten | heeft gedacht | **denken aan + объект**; возможно придаточное с **dat**. |
 | ⭐ | **doen** | делать | doe; doet; doet; doet; doen | deed; deden | heeft gedaan | **iets doen**; входит во многие глагольные выражения. |
 | ⭐ | **drinken** | пить | drink; drinkt; drinkt; drinkt; drinken | dronk; dronken | heeft gedronken | **iets drinken**, без обязательного предлога. |
+|  | **dichtklappen** | захлопываться | klap dicht; klapt dicht; klapt dicht; klapt dicht; klappen dicht | klapte dicht; klapten dicht | is dichtgeklapt | Отделяемое **dicht-**; непереходное изменение состояния. |
 |  | **duren** | длиться, занимать время | duur; duurt; duurt; duurt; duren | duurde; duurden | heeft geduurd | Часто безлично: **het duurt ... voordat ...**. |
 | ⭐ | **durven** | осмеливаться | durf; durft; durft; durft; durven | durfde; durfden | heeft gedurfd / heeft durven + infinitief | **durven + infinitief** обычно без **te**, вариант с **te** также встречается. |
 | ⭐ | **eten** | есть, питаться | eet; eet; eet; eet; eten | at; aten | heeft gegeten | **iets eten**, без обязательного предлога. |
@@ -37,14 +43,22 @@
 |  | **klimmen** | взбираться, карабкаться | klim; klimt; klimt; klimt; klimmen | klom; klommen | is geklommen | Направление, например **op de kant klimmen**. |
 | ⭐ | **komen** | приходить, прибывать | kom; komt; komt; komt; komen | kwam; kwamen | is gekomen | Направление часто выражается через **naar**. |
 | ⭐ | **krijgen** | получать | krijg; krijgt; krijgt; krijgt; krijgen | kreeg; kregen | heeft gekregen | **iets krijgen**, без обязательного предлога. |
+|  | **hoeven** | нуждаться; приходиться | hoef; hoeft; hoeft; hoeft; hoeven | hoefde; hoefden | heeft gehoeven / heeft hoeven + infinitief | Обычно **niet hoeven te + infinitief** — не нужно что-либо делать. |
 | ⭐ | **lachen** | смеяться | lach; lacht; lacht; lacht; lachen | lachte; lachten | heeft gelachen | **om iemand/iets lachen**. |
+| ⭐ | **leggen** | класть, положить | leg; legt; legt; legt; leggen | legde; legden | heeft gelegd | **iets op/in ... leggen**. |
 | ⭐ | **liggen** | лежать, находиться | lig; ligt; ligt; ligt; liggen | lag; lagen | heeft gelegen | Место часто с **in/op**; позиционная конструкция **liggen te + infinitief**. |
 |  | **likken** | лизать, вылизывать | lik; likt; likt; likt; likken | likte; likten | heeft gelikt | **iets likken**; возвратно **zich likken**. |
+|  | **lokken** | приманивать | lok; lokt; lokt; lokt; lokken | lokte; lokten | heeft gelokt | Прямое дополнение: **iemand/iets lokken**. |
 | ⭐ | **lopen** | идти, ходить, бегать | loop; loopt; loopt; loopt; lopen | liep; liepen | heeft/is gelopen | **zijn** при направленном перемещении, **hebben** при деятельности. |
 |  | **lusten** | любить еду, находить вкусным | lust; lust; lust; lust; lusten | lustte; lustten | heeft gelust | **iets (niet) lusten**. |
+|  | **luieren** | бездельничать, лениться | luier; luiert; luiert; luiert; luieren | luierde; luierden | heeft geluierd | Без обязательного управления. |
 | ⭐ | **maken** | делать, создавать | maak; maakt; maakt; maakt; maken | maakte; maakten | heeft gemaakt | **iemand/iets + прилагательное maken**. |
 |  | **meemaken** | пережить, испытать | maak mee; maakt mee; maakt mee; maakt mee; maken mee | maakte mee; maakten mee | heeft meegemaakt | Отделяемое **mee-**; **iets/iemand meemaken**. |
+|  | **meenemen** | брать с собой; перевозить | neem mee; neemt mee; neemt mee; neemt mee; nemen mee | nam mee; namen mee | heeft meegenomen | Отделяемое **mee-**; **iemand/iets meenemen**. |
 | ⭐ | **mogen** | мочь, иметь разрешение | mag; mag; mag/mogen; mag; mogen | mocht; mochten | heeft gemogen / heeft mogen + infinitief | **mogen + infinitief** без **te**; с отрицанием — «нельзя». |
+| ⭐ | **nemen** | брать | neem; neemt; neemt; neemt; nemen | nam; namen | heeft genomen | **iets nemen**, без обязательного предлога. |
+|  | **neerzetten** | ставить | zet neer; zet neer; zet neer; zet neer; zetten neer | zette neer; zetten neer | heeft neergezet | Отделяемое **neer-**; **iemand/iets neerzetten**. |
+| ⭐ | **noemen** | называть | noem; noemt; noemt; noemt; noemen | noemde; noemden | heeft genoemd | **iemand/iets + naam/eigenschap noemen**. |
 |  | **omgooien** | опрокидывать | gooi om; gooit om; gooit om; gooit om; gooien om | gooide om; gooiden om | heeft omgegooid | Отделяемое **om-**; **iets omgooien**. |
 | ⭐ | **opendoen** | открывать | doe open; doet open; doet open; doet open; doen open | deed open; deden open | heeft opengedaan | Отделяемое **open-**; **iets opendoen**. |
 |  | **opeten** | съедать полностью | eet op; eet op; eet op; eet op; eten op | at op; aten op | heeft opgegeten | Отделяемое **op-**; **iets opeten**. |
@@ -56,9 +70,13 @@
 |  | **plagen** | дразнить, подшучивать; мучить | plaag; plaagt; plaagt; plaagt; plagen | plaagde; plaagden | heeft geplaagd | **iemand plagen**. |
 | ⭐ | **proberen** | пытаться, пробовать | probeer; probeert; probeert; probeert; proberen | probeerde; probeerden | heeft geprobeerd | **proberen te + infinitief**. |
 |  | **rennen** | бежать | ren; rent; rent; rent; rennen | rende; renden | heeft/is gerend | **zijn** возможно при направленном перемещении к цели. |
+|  | **ruiken** | пахнуть; чувствовать запах | ruik; ruikt; ruikt; ruikt; ruiken | rook; roken | heeft geroken | В значении «чуять» принимает прямое дополнение. |
 | ⭐ | **roepen** | кричать, звать | roep; roept; roept; roept; roepen | riep; riepen | heeft geroepen | **iemand roepen**. |
 |  | **rondlopen** | ходить, бегать вокруг | loop rond; loopt rond; loopt rond; loopt rond; lopen rond | liep rond; liepen rond | heeft rondgelopen | Отделяемое **rond-**. |
 |  | **schudden** | трясти, качать | schud; schudt; schudt; schudt; schudden | schudde; schudden | heeft geschud | **aan iets schudden**. |
+|  | **schommelen** | качаться; раскачиваться | schommel; schommelt; schommelt; schommelt; schommelen | schommelde; schommelden | heeft geschommeld | Без обязательного управления. |
+|  | **schrikken** | пугаться | schrik; schrikt; schrikt; schrikt; schrikken | schrok; schrokken | is geschrokken | **schrikken van iemand/iets**. |
+| ⭐ | **schrijven** | писать | schrijf; schrijft; schrijft; schrijft; schrijven | schreef; schreven | heeft geschreven | **iets aan iemand schrijven**. |
 | ⭐ | **slapen** | спать | slaap; slaapt; slaapt; slaapt; slapen | sliep; sliepen | heeft geslapen | Без обязательного управления. |
 |  | **sluipen** | красться | sluip; sluipt; sluipt; sluipt; sluipen | sloop; slopen | heeft geslopen | Направление возможно с **naar**. |
 |  | **smeren** | мазать, намазывать | smeer; smeert; smeert; smeert; smeren | smeerde; smeerden | heeft gesmeerd | **iets op iets smeren**, **iets vol iets smeren**. |
@@ -66,15 +84,20 @@
 |  | **springen** | прыгать | spring; springt; springt; springt; springen | sprong; sprongen | is gesprongen | Направление, например **de sloot in springen**. |
 | ⭐ | **staan** | стоять | sta; staat; staat; staat; staan | stond; stonden | heeft gestaan | Позиционная конструкция **staan te + infinitief**. |
 |  | **toelopen** | подходить, направляться к | loop toe; loopt toe; loopt toe; loopt toe; lopen toe | liep toe; liepen toe | is toegelopen | Отделяемое **toe-**; **naar iemand/iets toelopen**. |
+| ⭐ | **terugkomen** | возвращаться | kom terug; komt terug; komt terug; komt terug; komen terug | kwam terug; kwamen terug | is teruggekomen | Отделяемое **terug-**. |
 |  | **uitkijken** | быть осторожным, смотреть в оба | kijk uit; kijkt uit; kijkt uit; kijkt uit; kijken uit | keek uit; keken uit | heeft uitgekeken | Отделяемое **uit-**; **voor iets uitkijken** — остерегаться. |
 | ⭐ | **vallen** | падать | val; valt; valt; valt; vallen | viel; vielen | is gevallen | Без обязательного управления. |
 | ⭐ | **vangen** | ловить | vang; vangt; vangt; vangt; vangen | ving; vingen | heeft gevangen | **iemand/iets vangen**. |
 |  | **verzorgen** | ухаживать за, заботиться о | verzorg; verzorgt; verzorgt; verzorgt; verzorgen | verzorgde; verzorgden | heeft verzorgd | Неотделяемое **ver-**; прямое дополнение: **iemand/iets verzorgen**. |
+|  | **verjagen** | прогонять, изгонять | verjaag; verjaagt; verjaagt; verjaagt; verjagen | verjoeg; verjoegen | heeft verjaagd | Неотделяемое **ver-**; **iemand/iets verjagen**. |
+| ⭐ | **vertellen** | рассказывать | vertel; vertelt; vertelt; vertelt; vertellen | vertelde; vertelden | heeft verteld | **iemand iets vertellen**; **over/van iets vertellen**. |
 | ⭐ | **vinden** | находить; считать | vind; vindt; vindt; vindt; vinden | vond; vonden | heeft gevonden | **iemand/iets + прилагательное vinden** — считать кого-либо/что-либо каким-либо. |
 |  | **vooroplopen** | идти впереди | loop voorop; loopt voorop; loopt voorop; loopt voorop; lopen voorop | liep voorop; liepen voorop | heeft vooropgelopen | Отделяемое **voorop-**. |
 | ⭐ | **vragen** | спрашивать, просить | vraag; vraagt; vraagt; vraagt; vragen | vroeg; vroegen | heeft gevraagd | **iemand iets vragen**; **naar iets vragen**. |
 |  | **wegduwen** | отталкивать прочь | duw weg; duwt weg; duwt weg; duwt weg; duwen weg | duwde weg; duwden weg | heeft weggeduwd | Отделяемое **weg-**; **iemand/iets wegduwen**. |
 | ⭐ | **weten** | знать | weet; weet; weet; weet; weten | wist; wisten | heeft geweten | Прямое дополнение или придаточное с **dat**. |
+|  | **wandelen** | гулять | wandel; wandelt; wandelt; wandelt; wandelen | wandelde; wandelden | heeft gewandeld | Маршрут может вводиться **door**. |
+|  | **weglopen** | уходить, убегать | loop weg; loopt weg; loopt weg; loopt weg; lopen weg | liep weg; liepen weg | is weggelopen | Отделяемое **weg-**. |
 | ✅ | **willen** | хотеть | wil; wilt/wil; wilt; wil; willen | wilde/wou; wilden/wouden | heeft gewild / heeft willen + infinitief | **willen + infinitief** без **te**; уже отмечено в `KNOWN.md`. |
 | ⭐ | **wonen** | жить, проживать | woon; woont; woont; woont; wonen | woonde; woonden | heeft gewoond | Обычно **wonen in/op + место**. |
 | ⭐ | **worden** | становиться | word; wordt; wordt; wordt; worden | werd; werden | is geworden | Именная часть без предлога; также вспомогательный глагол пассива. |
@@ -82,6 +105,7 @@
 |  | **zich uitrekken** | потягиваться, вытягиваться | rek me uit; rekt je uit; rekt zich uit; rekt zich uit; rekken ons/jullie/zich uit | rekte zich uit; rekten zich uit | heeft zich uitgerekt | Возвратное **zich**, отделяемое **uit-**. |
 | ⭐ | **zien** | видеть | zie; ziet; ziet; ziet; zien | zag; zagen | heeft gezien | Прямое дополнение, придаточное с **dat** или **zien + infinitief** без **te**. |
 | ⭐ | **zitten** | сидеть, находиться | zit; zit; zit; zit; zitten | zat; zaten | heeft gezeten | Позиционная конструкция **zitten te + infinitief**. |
+|  | **zingen** | петь | zing; zingt; zingt; zingt; zingen | zong; zongen | heeft gezongen | Возможно прямое дополнение: **een lied zingen**. |
 |  | **zullen** | выражать будущее, намерение, предположение | zal; zult/zal; zult/zal; zal; zullen | zou; zouden | обычно не употребляется самостоятельно; **heeft zullen + infinitief** возможно, но избегается | **zullen + infinitief** без **te**. |
 |  | **zwemmen** | плавать | zwem; zwemt; zwemt; zwemt; zwemmen | zwom; zwommen | heeft gezwommen | Место возможно с **in**. |
 
